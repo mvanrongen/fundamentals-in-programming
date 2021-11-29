@@ -1,0 +1,12 @@
+book_filename: "Fundamentals in programming"
+new_session: true
+delete_merged_file: true
+
+rmd_files: [
+  "index.Rmd",
+  "loops.Rmd",
+]
+
+language:
+  ui:
+    chapter_name: "Chapter "
